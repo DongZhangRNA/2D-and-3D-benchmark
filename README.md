@@ -5,7 +5,7 @@ This repository contains the datasets, 2D and 3D structure predictions of variou
 ## Description  
 
 1. `Datasets`  
-Stores PDB and fasta files of RNA datasets for benchmarking.\
+Stores PDB and FASTA files of RNA datasets for benchmarking.\
 Subfolders are named after specific datasets: [CASP_RNA](https://predictioncenter.org/casp15/index.cgi), [RNA_Puzzles](https://www.rnapuzzles.org/), and Custom.  
 
 2. `Predictions_2D`  
@@ -18,7 +18,7 @@ Contains the RNA secondary structure prediction results of various RNA 2D struct
 [MXfold2](https://doi.org/10.1038/s41467-021-21194-4),
 and [AlphaFold3](https://github.com/google-deepmind/alphafold3).
 (The *RNA 2D structure prediction* of AF3 means the 2D structure induced from its 3D structure prediction).\
-This directory is organized hierarchically by dataset, and predicted fasta files named after tool names.  
+This directory is organized hierarchically by dataset, and predicted FASTA files named after tool names.  
 
 3. `Predictions_3D`  
 Stores the RNA tertiary structure prediction results of different RNA 3D structure prediction tools, including
