@@ -16,15 +16,17 @@ Contains the RNA secondary structure prediction results of various RNA 2D struct
 [Mfold](https://doi.org/10.1093/nar/gkg595),
 [NUPACK](https://doi.org/10.1002/jcc.21596),
 [MXfold2](https://doi.org/10.1038/s41467-021-21194-4),
-and [AlphaFold3](https://github.com/google-deepmind/alphafold3).
+and [AlphaFold3](https://alphafoldserver.com/).
 (The *RNA 2D structure prediction* of AF3 means the 2D structure derived from its 3D structure prediction).\
 This directory is hierarchically organized by dataset. Predicted FASTA files are named after the tools used.
 
 3. `Predictions_3D`  
 Stores the RNA tertiary structure prediction results of different RNA 3D structure prediction tools, including
-[DRfold](https://github.com/leeyang/DRfold),
+[AlphaFold3](https://alphafoldserver.com/),
+[trRosettaRNA](https://yanglab.qd.sdu.edu.cn/trRosettaRNA/download/),
+[DRfold](https://zhanggroup.org/DRfold/),
 [RNAComposer](https://rnacomposer.cs.put.poznan.pl/),
-[FARFAR2](https://doi.org/10.1016/j.str.2020.05.011),
+[FARFAR2](https://www.rosettacommons.org/software/license-and-download),
 [IsRNA2](https://10.1021/acs.jpcb.1c07288),
-and [SimRNA](https://doi.org/10.1093/nar/gkv1479).\
+and [SimRNA](https://genesilico.pl/software/stand-alone/simrna).\
 This directory is organized hierarchically by dataset and then by tool. Within it, compressed output files are named after their respective tools.
