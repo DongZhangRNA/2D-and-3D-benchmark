@@ -18,7 +18,7 @@ Contains the RNA secondary structure prediction results of various RNA 2D struct
 [MXfold2](https://doi.org/10.1038/s41467-021-21194-4),
 and [AlphaFold3](https://alphafoldserver.com/).
 (The *RNA 2D structure prediction* of AF3 means the 2D structure derived from its 3D structure prediction).\
-This directory is hierarchically organized by dataset. Predicted FASTA files are named after the tools used.
+This directory is hierarchically organized by dataset. Predicted DBN files are named after the tools used.
 
 3. `Predictions_3D`  
 Stores the RNA tertiary structure prediction results of different RNA 3D structure prediction tools, including
