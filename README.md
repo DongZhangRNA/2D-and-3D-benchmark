@@ -11,11 +11,11 @@ Subfolders are named after specific datasets: [CASP_RNA](https://predictioncente
 2. `Predictions_2D`  
 Contains the RNA secondary structure prediction results of various RNA 2D structure prediction tools, including
 [RNAfold](http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi),
-[RNAStructure](https://doi.org/10.1186/1471-2105-11-129),
-[CONTRAfold](https://doi.org/10.1093/bioinformatics/btl246),
-[Mfold](https://doi.org/10.1093/nar/gkg595),
-[NUPACK](https://doi.org/10.1002/jcc.21596),
-[MXfold2](https://doi.org/10.1038/s41467-021-21194-4),
+[RNAStructure](https://rna.urmc.rochester.edu/RNAstructure.html),
+[CONTRAfold](http://contra.stanford.edu/contrafold/),
+[Mfold](https://www.unafold.org/mfold/software/download-mfold.php),
+[NUPACK](https://nupack.org/download/overview),
+[MXfold2](https://github.com/mxfold/mxfold2),
 and [AlphaFold3](https://alphafoldserver.com/).
 (The *RNA 2D structure prediction* of AF3 means the 2D structure derived from its 3D structure prediction).\
 This directory is hierarchically organized by dataset. Predicted DBN files are named after the tools used.
