@@ -10,11 +10,11 @@ Subfolders are named after specific datasets: [CASP_RNA](https://predictioncente
 
 2. `Predictions_2D`  
 Contains the RNA secondary structure prediction results of various RNA 2D structure prediction tools, including
-[RNAfold](http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi),
-[RNAStructure](https://rna.urmc.rochester.edu/RNAstructure.html),
-[CONTRAfold](http://contra.stanford.edu/contrafold/),
-[Mfold](https://www.unafold.org/mfold/software/download-mfold.php),
-[NUPACK](https://nupack.org/download/overview),
+[RNAfold v2.6.4](http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi),
+[RNAStructure v6.4](https://rna.urmc.rochester.edu/RNAstructure.html),
+[CONTRAfold v2.02](http://contra.stanford.edu/contrafold/),
+[Mfold v3.6](https://www.unafold.org/mfold/software/download-mfold.php),
+[NUPACK v4.0](https://nupack.org/download/overview),
 [MXfold2](https://github.com/mxfold/mxfold2),
 and [AlphaFold3](https://alphafoldserver.com/).
 (The *RNA 2D structure prediction* of AF3 means the 2D structure derived from its 3D structure prediction).\
