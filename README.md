@@ -22,11 +22,11 @@ This directory is hierarchically organized by dataset. Predicted DBN files are n
 
 3. `Predictions_3D`  
 Stores the RNA tertiary structure prediction results of different RNA 3D structure prediction tools, including
-[AlphaFold3](https://alphafoldserver.com/),
-[trRosettaRNA](https://yanglab.qd.sdu.edu.cn/trRosettaRNA/download/),
+[AlphaFold3 (web server)](https://alphafoldserver.com/),
+[trRosettaRNA v1.1](https://yanglab.qd.sdu.edu.cn/trRosettaRNA/download/),
 [DRfold](https://zhanggroup.org/DRfold/),
-[RNAComposer](https://rnacomposer.cs.put.poznan.pl/),
-[FARFAR2](https://www.rosettacommons.org/software/license-and-download),
+[RNAComposer (web server)](https://rnacomposer.cs.put.poznan.pl/),
+[FARFAR2 (`rna_denovo` in `Rosetta` package)](https://www.rosettacommons.org/software/license-and-download),
 [IsRNA2](https://10.1021/acs.jpcb.1c07288),
-and [SimRNA](https://genesilico.pl/software/stand-alone/simrna).\
+and [SimRNA v3.20](https://genesilico.pl/software/stand-alone/simrna).\
 This directory is organized hierarchically by dataset and then by tool. Within it, compressed output files are named after their respective tools.
