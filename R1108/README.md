@@ -21,6 +21,6 @@
 
 `trRosettaRNA`: [trRosettaRNA v1.1](https://yanglab.qd.sdu.edu.cn/trRosettaRNA/download/),\
 `RNAComposer` (web server): [RNAComposer](https://rnacomposer.cs.put.poznan.pl/),\
-`FARFAR2` (`rna_denovo` in `Rosetta` package): [FARFAR2](https://www.rosettacommons.org/software/license-and-download),\
+`FARFAR2` (`rna_denovo` in `Rosetta` package): [Rosetta](https://www.rosettacommons.org/software/license-and-download),\
 `IsRNA2`: [IsRNA2](https://10.1021/acs.jpcb.1c07288), and\
 `SimRNA`: [SimRNA v3.20](https://genesilico.pl/software/stand-alone/simrna).
