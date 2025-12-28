@@ -26,7 +26,7 @@ Stores the RNA tertiary structure prediction results of different RNA 3D structu
 [trRosettaRNA v1.1](https://yanglab.qd.sdu.edu.cn/trRosettaRNA/download/),
 [DRfold](https://zhanggroup.org/DRfold/),
 [RNAComposer (web server)](https://rnacomposer.cs.put.poznan.pl/),
-[FARFAR2 (`rna_denovo` in `Rosetta` package)](https://www.rosettacommons.org/software/license-and-download),
+FARFAR2 (the `rna_denovo` application in the [`Rosetta`](https://www.rosettacommons.org/software/license-and-download) package),
 [IsRNA2](https://10.1021/acs.jpcb.1c07288),
 and [SimRNA v3.20](https://genesilico.pl/software/stand-alone/simrna).\
 This directory is organized hierarchically by dataset and then by tool. Within it, compressed output files are named after their respective tools.
