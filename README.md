@@ -22,6 +22,7 @@ This directory is hierarchically organized by dataset. Predicted DBN files are n
 
 3. `Predictions_3D`  
 Stores the RNA tertiary structure prediction results of different RNA 3D structure prediction tools, including
+[NuFold](https://github.com/kiharalab/NuFold),
 [AlphaFold3 (web server)](https://alphafoldserver.com/),
 [trRosettaRNA v1.1](https://yanglab.qd.sdu.edu.cn/trRosettaRNA/download/),
 [DRfold](https://zhanggroup.org/DRfold/),
